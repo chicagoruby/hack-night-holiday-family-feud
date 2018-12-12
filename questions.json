@@ -1,0 +1,481 @@
+{
+  "category": "Christmas",
+  "questions": [
+    {
+      "question": "Name a popular Christmas song.",
+      "responses": [
+        {
+          "response": "Jingle Bells",
+          "points": 45
+        },
+        {
+          "response": "White Christmas",
+          "points": 16
+        },
+        {
+          "response": "Rudolph the Red Nose Reindeer",
+          "points": 8
+        },
+        {
+          "response": "O Holy Night",
+          "points": 7
+        },
+        {
+          "response": "Silver Bells",
+          "points": 6
+        },
+        {
+          "response": "We Wish You a Merry Christmas",
+          "points": 5
+        },
+        {
+          "response": "Silent Night",
+          "points": 4
+        },
+        {
+          "response": "Jingle Bell Rock",
+          "points": 3
+        },
+        {
+          "response": "Joy to the World",
+          "points": 2
+        },
+        {
+          "response": "All I Want for Christmas",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "question": "Name the best Christmas movie.",
+      "responses": [
+        {
+          "response": "Elf",
+          "points": 16
+        },
+        {
+          "response": "It’s a Wonderful Life",
+          "points": 15
+        },
+        {
+          "response": "A Christmas Story",
+          "points": 14
+        },
+        {
+          "response": "Home Alone/Home Alone 2",
+          "points": 11
+        },
+        {
+          "response": "White Christmas",
+          "points": 10
+        },
+        {
+          "response": "National Lampoon’s Christmas Vacation",
+          "points": 10
+        },
+        {
+          "response": "Miracle on 34th Street",
+          "points": 7
+        },
+        {
+          "response": "How the Grinch Stole Christmas",
+          "points": 6
+        },
+        {
+          "response": "A Christmas Carol",
+          "points": 5
+        },
+        {
+          "response": "Rudolph",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name one thing you do on Christmas Eve.",
+      "responses": [
+        {
+          "response": "Attend church/mass",
+          "points": 26
+        },
+        {
+          "response": "Open gifts",
+          "points": 24
+        },
+        {
+          "response": "Party/celebrate with family/friends",
+          "points": 12
+        },
+        {
+          "response": "Wrap gifts",
+          "points": 9
+        },
+        {
+          "response": "Eat/drink",
+          "points": 8
+        },
+        {
+          "response": "Play games/bingo",
+          "points": 6
+        },
+        {
+          "response": "Watch movies",
+          "points": 5
+        },
+        {
+          "response": "Read a book or the Nativity Story",
+          "points": 4
+        },
+        {
+          "response": "Sing Christmas Carols/Hymns",
+          "points": 3
+        },
+        {
+          "response": "Sleep",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "question": "Name something you put on a Christmas tree.",
+      "responses": [
+        {
+          "response": "Ornaments",
+          "points": 37
+        },
+        {
+          "response": "Lights",
+          "points": 20
+        },
+        {
+          "response": "Star",
+          "points": 18
+        },
+        {
+          "response": "Angel",
+          "points": 15
+        },
+        {
+          "response": "Tinsel/garland",
+          "points": 6
+        },
+        {
+          "response": "Pickle",
+          "points": 3
+        },
+        {
+          "response": "Candy canes",
+          "points": 2
+        },
+        {
+          "response": "Ribbon",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "question": "Name one gift you should never get someone for Christmas.",
+      "responses": [
+        {
+          "response": "Underwear",
+          "points": 34
+        },
+        {
+          "response": "Vacuum Cleaner/cleaning supplies",
+          "points": 13
+        },
+        {
+          "response": "Fruitcake",
+          "points": 11
+        },
+        {
+          "response": "Socks",
+          "points": 10
+        },
+        {
+          "response": "Weight loss item",
+          "points": 9
+        },
+        {
+          "response": "Coal",
+          "points": 7
+        },
+        {
+          "response": "Clothes/lingerie",
+          "points": 6
+        },
+        {
+          "response": "Personal Hygiene items",
+          "points": 5
+        },
+        {
+          "response": "Appliances",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "If you met Santa, name one thing that would give it away that it",
+      "responses": [
+        {
+          "response": "Twinkle in his eye/his eyes",
+          "points": 28
+        },
+        {
+          "response": "His beard",
+          "points": 27
+        },
+        {
+          "response": "His laugh",
+          "points": 18
+        },
+        {
+          "response": "He’d know you or your Christmas wishes",
+          "points": 10
+        },
+        {
+          "response": "His red suit",
+          "points": 9
+        },
+        {
+          "response": "His belly",
+          "points": 3
+        },
+        {
+          "response": "His sleigh/reindeer",
+          "points": 2
+        },
+        {
+          "response": "His naughty/nice list",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "question": "Name a Popular Christmas Book",
+      "responses": [
+        {
+          "response": "The Night Before Christmas",
+          "points": 60
+        },
+        {
+          "response": "Polar Express",
+          "points": 10
+        },
+        {
+          "response": "How the Grinch Stole Christmas",
+          "points": 9
+        },
+        {
+          "response": "A Christmas Carol",
+          "points": 7
+        },
+        {
+          "response": "The Bible",
+          "points": 5
+        },
+        {
+          "response": "Rudolph",
+          "points": 4
+        },
+        {
+          "response": "Elf on the Shelf",
+          "points": 2
+        },
+        {
+          "response": "Frosty",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "question": "Name something you eat for Christmas dinner.",
+      "responses": [
+        {
+          "response": "Ham",
+          "points": 59
+        },
+        {
+          "response": "Turkey",
+          "points": 10
+        },
+        {
+          "response": "Prime rib",
+          "points": 7
+        },
+        {
+          "response": "Mashed potatoes",
+          "points": 6
+        },
+        {
+          "response": "Beef/roast",
+          "points": 5
+        },
+        {
+          "response": "Lasagna/Pasta",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name the worst gift from the 12 days of Christmas.",
+      "responses": [
+        {
+          "response": "Maids a Milking",
+          "points": 19
+        },
+        {
+          "response": "Lords a Leaping",
+          "points": 18
+        },
+        {
+          "response": "Geese a Laying",
+          "points": 14
+        },
+        {
+          "response": "Drummers Drumming",
+          "points": 11
+        },
+        {
+          "response": "Partridge in a Pair Tree",
+          "points": 11
+        },
+        {
+          "response": "Calling Birds",
+          "points": 7
+        },
+        {
+          "response": "Pipers Piping",
+          "points": 6
+        },
+        {
+          "response": "Turtle Doves",
+          "points": 6
+        },
+        {
+          "response": "French Hens",
+          "points": 5
+        },
+        {
+          "response": "Swans a Swimming",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "question": "Name the hardest person to shop for.",
+      "responses": [
+        {
+          "response": "Spouse/significant other",
+          "points": 34
+        },
+        {
+          "response": "In-laws",
+          "points": 19
+        },
+        {
+          "response": "Dad",
+          "points": 18
+        },
+        {
+          "response": "Mom",
+          "points": 17
+        },
+        {
+          "response": "Siblings",
+          "points": 5
+        },
+        {
+          "response": "Children",
+          "points": 4
+        },
+        {
+          "response": "Myself",
+          "points": 3
+        },
+        {
+          "response": "Grandparents",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "question": "Name something you drink during Christmas time.",
+      "responses": [
+        {
+          "response": "Eggnog",
+          "points": 52
+        },
+        {
+          "response": "Wine",
+          "points": 11
+        },
+        {
+          "response": "Hot chocolate/cocoa",
+          "points": 11
+        },
+        {
+          "response": "Apple cider/wassail",
+          "points": 10
+        },
+        {
+          "response": "Other alcoholic drink",
+          "points": 6
+        },
+        {
+          "response": "Punch",
+          "points": 4
+        },
+        {
+          "response": "Tea",
+          "points": 3
+        },
+        {
+          "response": "Water",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "question": "Name one of Santa’s reindeer.",
+      "responses": [
+        {
+          "response": "Rudolph",
+          "points": 28
+        },
+        {
+          "response": "Dasher",
+          "points": 21
+        },
+        {
+          "response": "Dancer",
+          "points": 11
+        },
+        {
+          "response": "Blitzen",
+          "points": 11
+        },
+        {
+          "response": "Prancher",
+          "points": 8
+        },
+        {
+          "response": "Vixon",
+          "points": 6
+        },
+        {
+          "response": "Comet",
+          "points": 5
+        },
+        {
+          "response": "Donner",
+          "points": 4
+        },
+        {
+          "response": "Cupid",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -479,5 +479,425 @@
         ]
       }
     ]
+  },
+  {
+    "category": "Thanksgiving",
+    "questions": [
+      {
+        "question": "Name One Thing You Eat on Thanksgiving",
+        "responses": [
+          {
+            "response": "Turkey",
+            "score": 42
+          },
+          {
+            "response": "Stuffing/dressing",
+            "score": 16
+          },
+          {
+            "response": "Sweet potatoes/yams",
+            "score": 11
+          },
+          {
+            "response": "Mashed potatoes",
+            "score": 10
+          },
+          {
+            "response": "Pumpkin pie/pie",
+            "score": 8
+          },
+          {
+            "response": "Cranberries/cranberry sauce",
+            "score": 5
+          },
+          {
+            "response": "Green bean casserole",
+            "score": 4
+          },
+          {
+            "response": "Ham",
+            "score": 3
+          },
+          {
+            "response": "Brussels Sprouts",
+            "score": 2
+          },
+          {
+            "response": "Rolls",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "question": "Name something you do other than eat on Thanksgiving.",
+        "responses": [
+          {
+            "response": "Play games/cards",
+            "score": 24
+          },
+          {
+            "response": "Play/watch football",
+            "score": 21
+          },
+          {
+            "response": "Talk/visit with family",
+            "score": 20
+          },
+          {
+            "response": "Watch the parade",
+            "score": 10
+          },
+          {
+            "response": "Black Friday shopping or prep",
+            "score": 7
+          },
+          {
+            "response": "Cook",
+            "score": 5
+          },
+          {
+            "response": "Exercise/walk/run",
+            "score": 4
+          },
+          {
+            "response": "Take a nap",
+            "score": 3
+          },
+          {
+            "response": "See/watch a movie",
+            "score": 3
+          },
+          {
+            "response": "Drink",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "question": "Name A Thanksgiving Word that Begins with the Letter “P.”",
+        "responses": [
+          {
+            "response": "Pumpkin",
+            "score": 32
+          },
+          {
+            "response": "Pilgrim",
+            "score": 27
+          },
+          {
+            "response": "Pie",
+            "score": 23
+          },
+          {
+            "response": "Potatoes",
+            "score": 8
+          },
+          {
+            "response": "Prayer/Praise",
+            "score": 5
+          },
+          {
+            "response": "Pecan",
+            "score": 3
+          },
+          {
+            "response": "Parade",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "question": "Name an NFL Team that Plays on Thanksgiving",
+        "responses": [
+          {
+            "response": "Dallas Cowboys",
+            "score": 38
+          },
+          {
+            "response": "Detroit Lions",
+            "score": 18
+          },
+          {
+            "response": "I have no idea/don’t know",
+            "score": 14
+          },
+          {
+            "response": "New England Patriots",
+            "score": 10
+          },
+          {
+            "response": "Green Bay Packers",
+            "score": 8
+          },
+          {
+            "response": "Pittsburg Steelers",
+            "score": 5
+          },
+          {
+            "response": "Chicago Bears",
+            "score": 4
+          },
+          {
+            "response": "New York Giants",
+            "score": 3
+          },
+          {
+            "response": "Washington Redskins",
+            "score": 2
+          },
+          {
+            "response": "Philadelphia Eagles",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "question": "Name a Flavor of Pie",
+        "responses": [
+          {
+            "response": "Pumpkin",
+            "score": 32
+          },
+          {
+            "response": "Apple",
+            "score": 23
+          },
+          {
+            "response": "Pecan",
+            "score": 22
+          },
+          {
+            "response": "Chocolate",
+            "score": 7
+          },
+          {
+            "response": "Cherry",
+            "score": 5
+          },
+          {
+            "response": "Lemon",
+            "score": 4
+          },
+          {
+            "response": "Berry",
+            "score": 3
+          },
+          {
+            "response": "Sweet Potato",
+            "score": 2
+          },
+          {
+            "response": "Cream Pie",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "question": "Name one word associated with pilgrims.",
+        "responses": [
+          {
+            "response": "Mayflower",
+            "score": 30
+          },
+          {
+            "response": "Indians",
+            "score": 17
+          },
+          {
+            "response": "Hats",
+            "score": 15
+          },
+          {
+            "response": "Thanksgiving/Gratitude",
+            "score": 14
+          },
+          {
+            "response": "Corn/cornucopia",
+            "score": 9
+          },
+          {
+            "response": "Feast/food",
+            "score": 5
+          },
+          {
+            "response": "Plymouth Rock",
+            "score": 4
+          },
+          {
+            "response": "Turkey",
+            "score": 3
+          },
+          {
+            "response": "Buckles",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "question": "What Store has the Best Black Friday Sales?",
+        "responses": [
+          {
+            "response": "Walmart",
+            "score": 28
+          },
+          {
+            "response": "Target",
+            "score": 20
+          },
+          {
+            "response": "Best Buy",
+            "score": 17
+          },
+          {
+            "response": "Don’t know/don’t shop",
+            "score": 11
+          },
+          {
+            "response": "Kohl’s",
+            "score": 10
+          },
+          {
+            "response": "Amazon",
+            "score": 8
+          },
+          {
+            "response": "Macy’s",
+            "score": 5
+          },
+          {
+            "response": "JcPenny’s",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "question": "What’s the Worst Day to Fly for Thanksgiving?",
+        "responses": [
+          {
+            "response": "The Day Before",
+            "score": 77
+          },
+          {
+            "response": "Thanksgiving Day",
+            "score": 10
+          },
+          {
+            "response": "Saturday/Sunday After",
+            "score": 6
+          },
+          {
+            "response": "The Day After",
+            "score": 4
+          },
+          {
+            "response": "Tuesday Before",
+            "score": 3
+          }
+        ]
+      },
+      {
+        "question": "How Many People Do You Spend Thanksgiving With?",
+        "responses": [
+          {
+            "response": "5-10",
+            "score": 29
+          },
+          {
+            "response": "15-20",
+            "score": 26
+          },
+          {
+            "response": "11-15",
+            "score": 23
+          },
+          {
+            "response": "20-30",
+            "score": 11
+          },
+          {
+            "response": "More than 30",
+            "score": 6
+          },
+          {
+            "response": "1-4",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "question": "What Time Do you Normally Get up on Thanksgiving Day?",
+        "responses": [
+          {
+            "response": "7:00AM",
+            "score": 30
+          },
+          {
+            "response": "8:00AM",
+            "score": 24
+          },
+          {
+            "response": "6:00AM",
+            "score": 19
+          },
+          {
+            "response": "9:00AM",
+            "score": 14
+          },
+          {
+            "response": "5:00AM",
+            "score": 7
+          },
+          {
+            "response": "After 9:00AM",
+            "score": 4
+          },
+          {
+            "response": "Before 5:00AM",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "question": "Which Thanksgiving food normally has the most leftovers?",
+        "responses": [
+          {
+            "response": "Turkey",
+            "score": 47
+          },
+          {
+            "response": "Stuffing/dressing",
+            "score": 14
+          },
+          {
+            "response": "Mashed potatoes",
+            "score": 9
+          },
+          {
+            "response": "Vegetables",
+            "score": 8
+          },
+          {
+            "response": "Sweet potatoes/yams",
+            "score": 6
+          },
+          {
+            "response": "Cranberries",
+            "score": 5
+          },
+          {
+            "response": "Salad",
+            "score": 4
+          },
+          {
+            "response": "Ham",
+            "score": 3
+          },
+          {
+            "response": "Dessert/pie",
+            "score": 2
+          }
+        ]
+      }
+    ]
   }
 ]
